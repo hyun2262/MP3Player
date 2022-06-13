@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/listAll"
+        android:icon="@drawable/music"
+        android:title="전체 리스트" />
+    <item
+        android:id="@+id/preference"
+        android:icon="@drawable/favorite"
+        android:title="좋아한 음악" />
+    <item
+        android:id="@+id/artistList"
+        android:icon="@drawable/headset"
+        android:title="아티스트별 보기" />
+    <item
+        android:id="@+id/albumList"
+        android:icon="@drawable/album"
+        android:title="앨범별 보기" />
+    <item
+        android:id="@+id/menuExit"
+        android:icon="@drawable/left"
+        android:title="메뉴 나가기" />
+
+</menu>
